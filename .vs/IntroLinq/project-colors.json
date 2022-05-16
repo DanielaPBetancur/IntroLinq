@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eba30779-bab1-4917-b0ae-271c1b7933e8": {
+      "ProjectGuid": "eba30779-bab1-4917-b0ae-271c1b7933e8",
+      "DisplayName": "clausulasFrom",
+      "ColorIndex": 0
+    },
+    "b9bac1ec-d57b-4a0e-a27d-2f44b9122357": {
+      "ProjectGuid": "b9bac1ec-d57b-4a0e-a27d-2f44b9122357",
+      "DisplayName": "IntroLinq",
+      "ColorIndex": 1
+    },
+    "7d5a84ba-df3e-4594-82f0-fa00233799f2": {
+      "ProjectGuid": "7d5a84ba-df3e-4594-82f0-fa00233799f2",
+      "DisplayName": "Join",
+      "ColorIndex": 2
+    },
+    "667a8c87-65b5-4df6-9116-cd9ad79f6922": {
+      "ProjectGuid": "667a8c87-65b5-4df6-9116-cd9ad79f6922",
+      "DisplayName": "Let",
+      "ColorIndex": 3
+    },
+    "93cbbd25-9b4c-4e06-a922-a39e0ef8809a": {
+      "ProjectGuid": "93cbbd25-9b4c-4e06-a922-a39e0ef8809a",
+      "DisplayName": "OperadoresLinq",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

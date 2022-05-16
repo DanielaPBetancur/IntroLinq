@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\bin\Debug\net6.0\IntroLinq.exe
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\bin\Debug\net6.0\IntroLinq.deps.json
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\bin\Debug\net6.0\IntroLinq.runtimeconfig.json
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\bin\Debug\net6.0\IntroLinq.dll
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\bin\Debug\net6.0\ref\IntroLinq.dll
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\bin\Debug\net6.0\IntroLinq.pdb
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\obj\Debug\net6.0\IntroLinq.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\obj\Debug\net6.0\IntroLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\obj\Debug\net6.0\IntroLinq.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\obj\Debug\net6.0\IntroLinq.AssemblyInfo.cs
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\obj\Debug\net6.0\IntroLinq.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\obj\Debug\net6.0\IntroLinq.dll
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\obj\Debug\net6.0\ref\IntroLinq.dll
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\obj\Debug\net6.0\IntroLinq.pdb
+C:\Users\danie\source\repos\IntroLinq\IntroLinq\obj\Debug\net6.0\IntroLinq.genruntimeconfig.cache

@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "clausulasFrom/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IntroLinq": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/clausulasFrom.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/clausulasFrom.dll": {}
+        }
+      },
+      "IntroLinq/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/IntroLinq.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroLinq.dll": {}
+        }
+      },
+      "Join/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IntroLinq": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Join.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Join.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clausulasFrom/1.0.0": {
+      "type": "project",
+      "path": "../clausulasFrom/clausulasFrom.csproj",
+      "msbuildProject": "../clausulasFrom/clausulasFrom.csproj"
+    },
+    "IntroLinq/1.0.0": {
+      "type": "project",
+      "path": "../IntroLinq/IntroLinq.csproj",
+      "msbuildProject": "../IntroLinq/IntroLinq.csproj"
+    },
+    "Join/1.0.0": {
+      "type": "project",
+      "path": "../Join/Join.csproj",
+      "msbuildProject": "../Join/Join.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "IntroLinq >= 1.0.0",
+      "Join >= 1.0.0",
+      "clausulasFrom >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\danie\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\danie\\source\\repos\\Linq\\Let\\Let.csproj",
+      "projectName": "Let",
+      "projectPath": "C:\\Users\\danie\\source\\repos\\Linq\\Let\\Let.csproj",
+      "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danie\\source\\repos\\Linq\\Let\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\danie\\source\\repos\\Linq\\clausulasFrom\\clausulasFrom.csproj": {
+              "projectPath": "C:\\Users\\danie\\source\\repos\\Linq\\clausulasFrom\\clausulasFrom.csproj"
+            },
+            "C:\\Users\\danie\\source\\repos\\Linq\\IntroLinq\\IntroLinq.csproj": {
+              "projectPath": "C:\\Users\\danie\\source\\repos\\Linq\\IntroLinq\\IntroLinq.csproj"
+            },
+            "C:\\Users\\danie\\source\\repos\\Linq\\Join\\Join.csproj": {
+              "projectPath": "C:\\Users\\danie\\source\\repos\\Linq\\Join\\Join.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
